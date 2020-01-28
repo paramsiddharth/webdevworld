@@ -1,5 +1,5 @@
 # Web Development World
-A submission for Progate's Week of Learning programme.
+A submission for Progate's Week of Learning programme (http://paramsiddharth.github.io/webdevworld).
 
 # Image sources
 https://assets.weforum.org/project/image/medium_10veTGcevWRqbXepJ49Ujrek7C5aJ3QxKjWovToyRjU.jpeg
